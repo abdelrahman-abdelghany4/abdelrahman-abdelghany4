@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdelrahmanabdelghany80@gmail.com , 01123995738 , 01062076511**
 
-- 📄 My Cv [https://drive.google.com/file/d/1zoFgkxUuJLbM0VQDlfRkQszSPAA_A-Hi/view?usp=drivesdk](https://drive.google.com/file/d/1zoFgkxUuJLbM0VQDlfRkQszSPAA_A-Hi/view?usp=drivesdk)
+- 📄 My Cv [https://drive.google.com/file/d/1wMs8wt6vBEY5uhtSTHMyKNBd73CDVlkI/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
