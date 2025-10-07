@@ -46,7 +46,7 @@
 <div align="left" style="background-color:#1e1e2f; padding:20px; border-radius:10px; width:80%; margin:auto;">
 
 - 🧩 <b>Custom Odoo Modules:</b>  
-  Developed tailored modules for <b>Sales, HR, Inventory, and Accounting</b> using Odoo 15 & 16.
+  Developed tailored modules for <b>Sales, HR, Inventory, and Accounting</b> using Odoo version 12 to 18.
 
 - 🔗 <b>System Integrations:</b>  
   Integrated Odoo with external APIs and automated data sync workflows.
