@@ -1,7 +1,7 @@
 <!-- 💜 Abdelrahman Abdelghany | Odoo Developer 💜 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+%7C+XML+%7C+PostgreSQL+%7C+Odoo+Framework;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+%7C+XML+%7C+PostgreSQL+%7C+Odoo+Framework;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,10 +13,11 @@
 ---
 
 ### 👨‍💻 About Me  
-💼 Odoo Developer with **1.5+ years** of hands-on experience building and customizing ERP systems.  
+
+💼 **Odoo Developer** with **1.5+ years** of experience building and customizing ERP systems.  
 🎓 Bachelor's degree in **Computer Science**  
-🚀 Passionate about automation, modular design, and improving business workflows through smart ERP solutions.  
-💬 Ask me about **Python, Odoo Framework, XML, PostgreSQL**
+🚀 Passionate about **business automation**, modular ERP design, and efficient workflows.  
+💬 Ask me about **Python, Odoo Framework, XML, PostgreSQL**  
 
 📧 **Email:** abdelrahmanabdelghany80@gmail.com  
 📞 **Phone:** 01123995738 | 01062076511  
@@ -36,27 +37,17 @@
 
 ### 🚀 Projects & Experience  
 
-- 🧩 **Custom Odoo Modules:**  
-  Developed tailored modules for **Sales, HR, Inventory, and Accounting**.  
+🧩 **Custom Odoo Modules**  
+Developed tailored modules for **Sales, HR, Inventory, and Accounting** using Odoo 15 & 16.  
 
-- 🔗 **System Integrations:**  
-  Linked Odoo with external systems via **REST APIs** and automated workflows.  
+🔗 **System Integrations**  
+Integrated Odoo with external APIs and automated data sync workflows.  
 
-- 🗃️ **Database & Migration:**  
-  Managed PostgreSQL databases and handled data migration across versions.  
+🗃️ **Database & Migration**  
+Managed **PostgreSQL** databases and handled migrations across different Odoo versions.  
 
-- 🎨 **UI/UX Customization:**  
-  Enhanced Odoo QWeb templates and JS views for smoother UX.  
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-abdelghany4&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-abdelghany4&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-abdelghany4&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+🎨 **UI/UX Customization**  
+Enhanced Odoo **QWeb templates** and **JS views** for a smoother user experience.  
 
 ---
 
@@ -64,17 +55,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-abdelghany-1474b3230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelghany-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelghany-8A2BE2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abdelrahmanabdelghany80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdelrahmanabdelghany80%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-abdelrahmanabdelghany80%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-abdelghany4&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-abdelghany4&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" width="700"/>
 </div>
 
 ---
