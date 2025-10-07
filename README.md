@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;
-      Python+%7C+XML+%7C+PostgreSQL+%7C+Odoo+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+|+XML+|+PostgreSQL+|+Odoo+Framework" alt="Typing SVG" />
   </a>
 </p>
 
