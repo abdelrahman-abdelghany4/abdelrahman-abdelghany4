@@ -1,84 +1,84 @@
-<h1 align="left">Hi I'm Abdelrahman Mohamed Mohamed Abdelghany 👋</h1>
-<h3 align="left">Odoo Developer</h3>
-<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<!-- 💜 Abdelrahman Abdelghany | Odoo Developer 💜 -->
 
-- 🎓 Bachelor's degree in **Computer Science**
-
-- 💻 One year and a half of experience working as an **Odoo Developer**
-
-- 💬 Ask me about **Python, Odoo Framework, XML, PostgreSQL**
-
-- 📫 How to reach me:  
-  **📧 abdelrahmanabdelghany80@gmail.com**  
-  **📞 01123995738 | 01062076511**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+%7C+XML+%7C+PostgreSQL+%7C+Odoo+Framework;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-abdelghany-1474b3230" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif"/>
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.odoo.com/web/image/website/1/logo/Odoo?unique=915d2f8" alt="odoo" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373632/xml.svg" alt="xml" width="40" height="40"/>
-  </a>
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373632/json.svg" alt="json" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-</p>
+### 👨‍💻 About Me  
+💼 Odoo Developer with **1.5+ years** of hands-on experience building and customizing ERP systems.  
+🎓 Bachelor's degree in **Computer Science**  
+🚀 Passionate about automation, modular design, and improving business workflows through smart ERP solutions.  
+💬 Ask me about **Python, Odoo Framework, XML, PostgreSQL**
+
+📧 **Email:** abdelrahmanabdelghany80@gmail.com  
+📞 **Phone:** 01123995738 | 01062076511  
 
 ---
 
-<h3 align="left">Projects & Experience:</h3>
-
-- 🧩 **Custom Odoo Modules Development:**  
-  Developed and customized modules for **Sales, Inventory, HR, and Accounting** systems.
-
-- 🏢 **ERP System Implementation:**  
-  Implemented complete ERP solutions for small and medium businesses using **Odoo 15 & 16**.
-
-- 🔧 **Integration & APIs:**  
-  Integrated Odoo with external systems using **REST APIs** and custom connectors.
-
-- 🗃️ **Database Management:**  
-  Worked with **PostgreSQL** for database design, performance tuning, and data migration.
-
-- 🎨 **UI/UX Enhancements:**  
-  Customized Odoo views using **XML, QWeb, and JavaScript** to improve user experience.
-
----
+### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-abdelghany4&" alt="abdelrahman-abdelghany4" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,html,css,javascript,vscode,linux" />
+  <img src="https://www.odoo.com/web/image/website/1/logo/Odoo?unique=915d2f8" width="50" alt="Odoo logo"/>
+  <img src="https://www.svgrepo.com/show/373632/xml.svg" width="45" alt="XML"/>
+  <img src="https://www.svgrepo.com/show/373632/json.svg" width="45" alt="JSON"/>
 </p>
 
-<!--
-⚡ Fun fact: I love building efficient ERP solutions that make businesses run smoother!
--->
+---
+
+### 🚀 Projects & Experience  
+
+- 🧩 **Custom Odoo Modules:**  
+  Developed tailored modules for **Sales, HR, Inventory, and Accounting**.  
+
+- 🔗 **System Integrations:**  
+  Linked Odoo with external systems via **REST APIs** and automated workflows.  
+
+- 🗃️ **Database & Migration:**  
+  Managed PostgreSQL databases and handled data migration across versions.  
+
+- 🎨 **UI/UX Customization:**  
+  Enhanced Odoo QWeb templates and JS views for smoother UX.  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-abdelghany4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-abdelghany4&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-abdelghany4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-abdelghany-1474b3230" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelghany-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdelrahmanabdelghany80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdelrahmanabdelghany80%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-abdelghany4&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ Fun fact: I love turning business ideas into powerful ERP solutions ⚡</i>
+</div>
